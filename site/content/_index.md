@@ -1,20 +1,12 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
-blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+title: "Okey & Associates"
+subtitle: Your Real Estate Experts For Life!
+image: /img/full_size.jpeg
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Hello from Okey & Associates!
+    text: Okey and Associates is a full-service team of Realtors licensed in Washington D.C., Maryland, and Virginia. Our client-centered and referral-based approach to residential and commercial real estate is what sets us apart from the crowd. Whether you are buying, selling, renting, renovating, relocating, seeking a space for your business, or in need of a home service referral, we are here to help!
+philosophy:
+    heading: "Our Philosophy"
+    text: "Our business has been developed around one guiding principle: It’s all about you. Your life. Your needs. Your dreams. Your concerns. Your questions. Your finances. Your time. We are here to build relationships for life and serve the community that we love. Our focus is on your complete satisfaction and on streamlining the real estate process for you. In fact, we work to get the job done so well that you’ll want to tell your friends and associates about us. That’s why the majority of our business comes from repeat customers and referrals - we believe that top-notch service speaks for itself. We are looking forward to earning your referrals!"
 ---
 
