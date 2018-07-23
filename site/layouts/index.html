@@ -1,9 +1,11 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "phone" .Params.phone) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "phone" .Params.phone "position" .Params.position) }}
 
-{{ partial "short-text" .Params.intro }}
+{{ partial "text-and-image" .Params.intro }}
 
-{{ partial "text-and-image" (dict "heading" .Params.philosophy.heading "text" .Params.philosophy.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "text-and-image" .Params.philosophy }}
+
+{{ partial "action" }}
 
 {{ end }}

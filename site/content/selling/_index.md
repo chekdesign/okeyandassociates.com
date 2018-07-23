@@ -1,45 +1,18 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
-values:
-  - heading: "Shade-grown coffee"
-    text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
-    text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+title: Selling Your Home
+type: buying
+image: /img/for_sale.jpeg
+position: "center"
+
+selling_dream:
+    heading: We'll Value Your Home
+    text: "When selling a home in the DC-Metro Area, it’s crucial to start off on the right foot — at the right price. So, don’t turn to automatic estimate services! They often compare your property to outdated or incorrect information and won’t take into account any improvements or repairs you have made over the years. Because we understand the unique neighborhoods and real estate market trends of the DC-Metro Area, we can provide an accurate evaluation and help you find the right price for your home."
+
+selling_tools:
+    heading: "Our Mission"
+    text: "When you list with us, our mission is to provide the highest quality marketing strategy and materials and seek the highest exposure for your property in the marketplace. We do this by by providing tools that are unequaled."
+
+selling_contact:
+    heading: "Let's get in touch"
+    text: "Contact us at 202-412-4533 or info@okeyandassociates.com for more information and to schedule a free homebuying consultation!"
 ---

@@ -1,11 +1,19 @@
 <div class="bg-primary white flex flex-wrap">
-      <p class="f5 white center tc">Your Expert Real Estate Consultants For Life!</p>
-      <p class="f5 white center tc">(202) 456 7812</p>
-      <p class="f5 white center tc">hello@okeyandassociates.com</p>
+      <p class="f5 white center tc ma3 pl2 pr2">Your Expert Real Estate Consultants For Life!</p>
+      <p class="f5 white center tc ma3 pl2 pr2">(202) 456 7812</p>
+      <p class="f5 white center tc ma3 pl2 pr2">hello@okeyandassociates.com</p>
 </div>
 
+{{ if eq .position "top" }}
+<div class="pv5 pv6-l bg-top cover" style="background-image: url('{{.imageUrl}}')">
+  <div class="mv5"></div>
+</div>
+{{ else if eq .position "center"}}
+<div class="pv5 pv6-l bg-center cover" style="background-image: url('{{.imageUrl}}')">
+  <div class="mv5"></div>
+</div>
+{{ else if eq .position "bottom"}}
 <div class="pv5 pv6-l bg-bottom cover" style="background-image: url('{{.imageUrl}}')">
-  <div class="mv5">
-
-  </div>
+  <div class="mv5"></div>
 </div>
+{{ end }}

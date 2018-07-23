@@ -1,0 +1,13 @@
+{{ if eq .position "top" }}
+<div class="pv5 pv6-l bg-top cover" style="background-image: url('{{.imageUrl}}')">
+  <div class="mv5"></div>
+</div>
+{{ else if eq .position "center"}}
+<div class="pv5 pv6-l bg-center cover" style="background-image: url('{{.imageUrl}}')">
+  <div class="mv5"></div>
+</div>
+{{ else if eq .position "bottom"}}
+<div class="pv5 pv6-l bg-bottom cover" style="background-image: url('{{.imageUrl}}')">
+  <div class="mv5"></div>
+</div>
+{{ end }}
