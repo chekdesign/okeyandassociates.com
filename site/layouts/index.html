@@ -1,10 +1,8 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "phone" .Params.phone "position" .Params.position) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "position" .Params.position) }}
 
-{{ partial "text-and-image" .Params.intro }}
-
-{{ partial "text-and-image" .Params.philosophy }}
+{{ partial "text-and-image-sections" (dict "sections" .Params.sections )}}
 
 {{ partial "action" }}
 
