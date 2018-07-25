@@ -3,7 +3,7 @@ title: Okey & Associates
 image: /img/dc_pic.jpg
 position: center
 tagline: Your Expert Real Estate Consultants For Life!
-phone: (202) 456 7891
+phone: (202) 412-4533
 email: hello@okeyandassociates.com
 sections:
   - title: Hello from Okey & Associates!
@@ -28,8 +28,5 @@ sections:
       comes from repeat customers and referrals - we believe that top-notch
       service speaks for itself. We are looking forward to earning your
       referrals!
-  - title: I like titties
-    image: /img/dc_background.jpg
-    text: They're great. I'm in DC.
 ---
 
