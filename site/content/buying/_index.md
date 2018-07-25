@@ -15,7 +15,7 @@ sections:
     image: /img/table_shot.jpeg
     text: "We believe that knowledge truly is power. The first thing that we do for homebuyers is provide education on the process to alleviate the stress of these questions and set you up to make the best choices along the way. Okey and Associates takes a hands-on approach to the homebuying process, explaining your options along the way so that you know you're making the right decisions for you. We streamline the homebuying process for you and provide further value by offering a high-quality and reliable network of mortgage lenders, home inspectors, settlement/title companies, utility service providers, contractors, and so much more.\nBuying a home is one of the most important events in your life, and Okey and Associates is here at every step of the way and ready to guide you along this path smoothly."
 
-buying_contact:
+contact:
     heading: "Let's get in touch"
     text: "Contact us at (202) 412-4533 or hello@okeyandassociates.com for more information and to schedule a free homebuying consultation!"
 ---

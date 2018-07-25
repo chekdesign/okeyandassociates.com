@@ -18,7 +18,7 @@ sections:
       - item: Special Purpose
       - item: Mixed Use
 
-commercial_contact:
+contact:
     heading: "Current Offerings"
     text: "Contact us at (202) 412-4533 or hello@okeyandassociates.com to get more info on available spaces and properties, or on leasing/selling your property."
 ---

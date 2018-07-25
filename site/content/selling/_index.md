@@ -23,7 +23,7 @@ sections:
       - item: "ShowingTime App for tracking showings and feedback"
 
 
-selling_contact:
+contact:
     heading: "Let's get in touch"
     text: "Contact us at 202-412-4533 or info@okeyandassociates.com for more information and to schedule a free homebuying consultation!"
 ---

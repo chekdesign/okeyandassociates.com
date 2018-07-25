@@ -15,6 +15,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "pages"
     label: "Pages"
     files:
@@ -31,5 +32,96 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Sections", name: sections, widget: list, fields: [
               {label: "Title", name: "title", widget: "text"},
               {label: "Image", name: "image", widget: "image"},
-              {label: "Text", name: "text", widget: "text"}
+              {label: "Text", name: "text", widget: "text"},
+              {label: "List Items", name: "listitems", widgets: list, fields: [
+                {label: "Item", name: "item", widget: "text"}
+              ]}
             ]}
+
+      - file: "site/content/about/_index.md"
+        label: "About Page"
+        name: "about"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Position, name: position, widget: string}
+          - {label: Tagline, name: tagline, widget: string}
+          - {label: Phone, name: phone, widget: string}
+          - {label: Email, name: email, widget: string}
+          - {label: "Sections", name: sections, widget: list, fields: [
+              {label: "Title", name: "title", widget: "text"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"},
+              {label: "List Items", name: "listitems", widgets: list, fields: [
+                {label: "Item", name: "item", widget: "text"}
+              ]}
+            ]}
+
+      - file: "site/content/contact/_index.md"
+        label: "Contact Page"
+        name: "contact"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Position, name: position, widget: string}
+          - {label: Tagline, name: tagline, widget: string}
+          - {label: Phone, name: phone, widget: string}
+          - {label: Email, name: email, widget: string}
+
+      - file: "site/content/buying/_index.md"
+        label: "Buying Page"
+        name: "buying"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Position, name: position, widget: string}
+          - {label: Tagline, name: tagline, widget: string}
+          - {label: Phone, name: phone, widget: string}
+          - {label: Email, name: email, widget: string}
+          - {label: "Sections", name: sections, widget: list, fields: [
+              {label: "Title", name: "title", widget: "text"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"},
+              {label: "List Items", name: "listitems", widgets: list, fields: [
+                {label: "Item", name: "item", widget: "text"}
+              ]}
+            ]}
+
+      - file: "site/content/selling/_index.md"
+        label: "Selling Page"
+        name: "selling"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Position, name: position, widget: string}
+          - {label: Tagline, name: tagline, widget: string}
+          - {label: Phone, name: phone, widget: string}
+          - {label: Email, name: email, widget: string}
+          - {label: "Sections", name: sections, widget: list, fields: [
+              {label: "Title", name: "title", widget: "text"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"},
+              {label: "List Items", name: "listitems", widgets: list, fields: [
+                {label: "Item", name: "item", widget: "text"}
+              ]}
+            ]}
+
+      - file: "site/content/commercial/_index.md"
+        label: "Commercial Page"
+        name: "commercial"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Position, name: position, widget: string}
+          - {label: Tagline, name: tagline, widget: string}
+          - {label: Phone, name: phone, widget: string}
+          - {label: Email, name: email, widget: string}
+          - {label: "Sections", name: sections, widget: list, fields: [
+              {label: "Title", name: "title", widget: "text"},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"},
+              {label: "List Items", name: "listitems", widgets: list, fields: [
+                {label: "Item", name: "item", widget: "text"}
+              ]}
+            ]}
+
