@@ -1,5 +1,7 @@
 ---
 title: "Contact"
+tagline: Your Expert Real Estate Consultants For Life!
+phone: (202) 412-4533
 heading: Let's get in touch
 contact_entries:
   - heading: Visit Us

@@ -2,11 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "position" .Params.position) }}
 
-{{ partial "short-text" .Params.selling_dream }}
-
-{{ partial "short-text" .Params.selling_tools}}
-
-{{ partial "features" }}
+{{ partial "text-and-image-sections" (dict "sections" .Params.sections )}}
 
 <div class="ph3 bg-off-white">
 	<div class="center mw6 pv3">

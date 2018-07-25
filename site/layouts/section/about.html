@@ -2,8 +2,6 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "position" .Params.position) }}
 
-{{ partial "short-text" .Params.about }}
-
-{{ partial "text-and-image" .Params.why}}
+{{ partial "text-and-image-sections" (dict "sections" .Params.sections )}}
 
 {{ end }}

@@ -1,5 +1,10 @@
-<div class="pm4">
+<div class="pm2">
 {{ range .sections }}
+
+
+{{ if .image }}
+
+
 <div class="bg-grey-1 pv4">
 	<div class="ph3 mw7 center">
 
@@ -8,8 +13,15 @@
 				<h2 class="f3 b lh-title mb2">{{.title}}</h2>
 
 				<p>{{.text}}</p>
-			</div>
 
+				<ul class="w-60-l mb0 pt1 pb4" style="list-style-type: square; list-style-position: outside; margin-left: 1em">
+				{{ range .listitems}}
+					<li>{{ .item }}</li>
+				{{ end }}
+				</ul>
+	
+			</div>
+			
 			<div class="w-60-l ph2-l">
 				<img src="{{.image}}" alt="" class="mb3">
 			</div>
@@ -17,6 +29,38 @@
 
 	</div>
 </div>
+
+
+
+{{ else }}
+
+
+
+<div class="bg-grey-1 pv4">
+  <div class="flex-l mhn1-l ph3 center mw7">
+    <h2 class="f3 b lh-title mb2 w-40-l">{{.title}}</h2>
+
+    <div class="w-60-l mb0">
+    	<p >{{.text}}</p>
+
+    	<ul class="" style="list-style-type: square; list-style-position: outside; margin-left: 1em">
+		{{ range .listitems}}
+			<li>{{ .item }}</li>
+		{{ end }}
+		</ul>
+    </div>
+
+	
+
+
+  </div>
+</div>
+
+
+
+{{ end }}
+
+
 {{ end }}
 </div>
 

@@ -1,19 +1,25 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+title: Okey & Associates
+image: /img/office.jpg
+position: center
+tagline: Your Expert Real Estate Consultants For Life!
+phone: (202) 412-4533
+email: hello@okeyandassociates.com
+sections:
+  - title: Providing Expert Service In Commercial Real Estate
+    image: /img/mall.jpg
+    text: >-
+      Whether you're looking to buy, sell, or lease, we have you covered:
+    listitems:
+      - item: Retail
+      - item: Office
+      - item: Multi-family
+      - item: Industrial
+      - item: Special Purpose
+      - item: Mixed Use
+
+commercial_contact:
+    heading: "Current Offerings"
+    text: "Contact us at (202) 412-4533 or hello@okeyandassociates.com to get more info on available spaces and properties, or on leasing/selling your property."
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
