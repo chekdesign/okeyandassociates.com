@@ -35,5 +35,9 @@ sections:
       Buying a home is one of the most important events in your life, and Okey &
       Associates is here at every step of the way and ready to guide you along
       this path smoothly.
+
+contact:
+    heading: "Let's Get In Touch"
+    text: "Contact us at (202) 412-4533 or hello@okeyandassociates.com for more info!"
 ---
 
