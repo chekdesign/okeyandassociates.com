@@ -18,7 +18,7 @@ sections:
       can you afford? What fees do you pay and when? How much should you offer? 
       What do you do if you are competing with other offers? What steps can you
       take to protect yourself during this process and while under contract? So,
-      we streamline the process for you
+      we streamline the process for you.
   - title: Our Process
     image: /img/table_shot.jpeg
     text: >-
@@ -35,9 +35,5 @@ sections:
       Buying a home is one of the most important events in your life, and Okey &
       Associates is here at every step of the way and ready to guide you along
       this path smoothly.
-
-contact:
-    heading: "Let's Get In Touch"
-    text: "Contact us at (202) 412-4533 or hello@okeyandassociates.com for a free homebuyer consultation and pre-approval tips!"
 ---
 
