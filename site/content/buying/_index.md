@@ -38,6 +38,6 @@ sections:
 
 contact:
     heading: "Let's Get In Touch"
-    text: "Contact us at (202) 412-4533 or hello@okeyandassociates.com for more info!"
+    text: "Contact us at (202) 412-4533 or hello@okeyandassociates.com for a free homebuyer consulation!"
 ---
 
