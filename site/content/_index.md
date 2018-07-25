@@ -28,5 +28,8 @@ sections:
       comes from repeat customers and referrals - we believe that top-notch
       service speaks for itself. We are looking forward to earning your
       referrals!
+  - title: I like titties
+    image: /img/dc_background.jpg
+    text: They're great. I'm in DC.
 ---
 
