@@ -3,7 +3,7 @@ title: Okey & Associates
 image: /img/dc_pic.jpg
 position: center
 tagline: Your Expert Real Estate Consultants For Life!
-phone: (202) 456 7891
+phone: (202) 412-4533
 email: hello@okeyandassociates.com
 sections:
   - title: Hello from Okey & Associates!
