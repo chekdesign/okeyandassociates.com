@@ -7,7 +7,7 @@ phone: (202) 412-4533
 email: hello@okeyandassociates.com
 sections:
   - text: >-
-      When selling a home in the DC-Metro Area, it’s crucial to start off on the
+      When selling a home in the DC-Metro area, it’s crucial to start off on the
       right foot - at the right price. So, don’t turn to automatic estimate
       services! They often compare your property to outdated or incorrect
       information and won’t take into account any improvements or repairs you
