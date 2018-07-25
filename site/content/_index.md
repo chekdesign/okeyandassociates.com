@@ -22,7 +22,7 @@ sections:
       about you. Your life. Your needs. Your dreams. Your concerns. Your
       questions. Your finances. Your time. We are here to build relationships
       for life and serve the community that we love. Our focus is on your
-      complete satisfaction and on streamlining the real estate process for you.
+      complete satisfaction and on streamlining the real-estate process for you.
       In fact, we work to get the job done so well that you’ll want to tell your
       friends and associates about us. That’s why the majority of our business
       comes from repeat customers and referrals - we believe that top-notch
