@@ -1,5 +1,5 @@
 ---
-title: Okey & Associates
+title: Commercial
 image: /img/office.jpg
 position: center
 tagline: Your Expert Real Estate Consultants For Life!
