@@ -9,7 +9,7 @@ sections:
   - title: Hello from Okey & Associates!
     image: /img/headshot.jpeg
     text: >-
-      Okey and Associates is a full-service team of Realtors licensed in
+      Okey & Associates is a full-service team of Realtors licensed in
       Washington D.C., Maryland, and Virginia. Our client-centered and
       referral-based approach to residential and commercial real estate is what
       sets us apart from the crowd. Whether you are buying, selling, renting,
