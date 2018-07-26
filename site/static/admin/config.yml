@@ -131,5 +131,5 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Contact", name: "contact", widget: list, fields: [
               {label: "Heading", name: "heading", widget: "text"},
               {label: "Text", name: "text", widget: "text"}
-          ]}
+            ]}
 
