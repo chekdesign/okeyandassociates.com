@@ -1,0 +1,74 @@
+<div class="pm2">
+{{ range .sections }}
+
+
+<div class="bg-grey-1 pv4">
+	<div class="ph3 mw7 center">
+
+		<div class="flex-l mhn2-l">
+			<div class="w-40-l ph2-l">
+				<h2 class="f3 b lh-title mb2">{{.title}}</h2>
+
+				<p>{{.text}}</p>
+	
+			</div>
+			
+			<div class="w-60-l ph2-l">
+				<div id="slideshow">
+					{{ range .listimages }}
+						<img src="{{.image}}" class="mb3">
+					{{ end }}
+				</div>
+
+				
+				<script type="text/javascript">
+
+				    $(document).ready(function(){
+					    $('#slideshow').slick({
+					        autoplay: true,
+					        speed: 1000,
+					        autoplaySpeed: 4000,
+					        arrows: false,
+					        swipe: true,
+					        mobileFirst: true,
+					        lazyLoad: true,
+					    	});
+				    	});
+			  	</script>
+			</div>
+		</div>
+
+	</div>
+</div>
+
+
+
+{{ else }}
+
+
+
+<div class="bg-grey-1 pv4">
+  <div class="flex-l mhn1-l ph3 center mw7">
+    <h2 class="f3 b lh-title mb2 w-40-l">{{.title}}</h2>
+
+    <div class="w-60-l mb0">
+    	<p >{{.text}}</p>
+
+    	<ul class="" style="list-style-type: square; list-style-position: outside; margin-left: 1em">
+		{{ range .listitems}}
+			<li>{{ .item }}</li>
+		{{ end }}
+		</ul>
+    </div>
+
+	
+
+
+  </div>
+</div>
+
+
+
+{{ end }}
+</div>
+

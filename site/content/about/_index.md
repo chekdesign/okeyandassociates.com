@@ -13,6 +13,8 @@ sections:
       - item: 'Make real estate transactions enjoyable, transparent, and simple.'
     text: 'Since 2013, we''ve had two goals:'
     title: About Us
+
+slideshow:
   - text: >-
       We are a rare breed of real estate agents - we work primarily by referral,
       so the dynamic of our relationship with clients is fundamentally
@@ -24,5 +26,14 @@ sections:
       are top-rated and have an amazing family of clients and advocates thanks
       to our unique style of work!
     title: Why Choose Us?
+    listimages:
+      - image: /img/client1.jpg
+      - image: /img/client2.jpg
+      - image: /img/client3.jpg
+      - image: /img/client4.jpg
+      - image: /img/client5.jpg
+      - image: /img/client6.jpg
+      - image: /img/client7.jpg
+      - image: /img/client8.jpg
 ---
 
