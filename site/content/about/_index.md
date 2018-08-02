@@ -35,5 +35,10 @@ slideshow:
       - image: /img/client6.jpg
       - image: /img/client7.jpg
       - image: /img/client8.jpg
+      - image: /img/client9.jpg
+      - image: /img/client10.jpg
+      - image: /img/client11.jpg
+      - image: /img/client12.jpg
+      - image: /img/client13.jpg
 ---
 
