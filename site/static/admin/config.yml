@@ -56,6 +56,14 @@ collections: # A list of collections the CMS should be able to edit
                 {label: "Item", name: "item", widget: "text"}
               ]}
             ]}
+          - {label: "Slideshow", name: slideshow, widget: list, fields: [
+              {label: "Title", name: "title", widget: "text"},
+              {label: "Text", name: "text", widget: "text"},
+              {label: "Image List", name: "listimages", widget: list, fields: [
+                {label: "Image", name: "image", widget: "image"}
+              ]}
+            ]}
+
 
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
@@ -86,7 +94,7 @@ collections: # A list of collections the CMS should be able to edit
                 {label: "Item", name: "item", widget: "text"}
               ]}
             ]}
-          - {label: "Contact", name: "contact", widget: list, fields: [
+          - {label: "Contact", name: "contact", widget: object, fields: [
               {label: "Heading", name: "heading", widget: "text"},
               {label: "Text", name: "text", widget: "text"}
           ]}
@@ -128,7 +136,7 @@ collections: # A list of collections the CMS should be able to edit
                 {label: "Item", name: "item", widget: "text"}
               ]}
             ]}
-          - {label: "Contact", name: "contact", widget: list, fields: [
+          - {label: "Contact", name: "contact", widget: object, fields: [
               {label: "Heading", name: "heading", widget: "text"},
               {label: "Text", name: "text", widget: "text"}
             ]}
